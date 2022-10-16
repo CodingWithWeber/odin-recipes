@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(245, 245, 250);
+}
+
+.link{
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(245, 245, 250);
+}
+
+h1 {
+    background-color: rgb(225, 241, 247);
+    font-family: monospace
+}
